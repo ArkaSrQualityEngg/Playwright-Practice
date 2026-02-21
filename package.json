@@ -1,0 +1,22 @@
+{
+  "name": "playwright-practice",
+  "version": "1.0.0",
+  "description": "This is for setting up a robust Playwright framework for testing practice.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArkaSrQualityEngg/Playwright-Practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArkaSrQualityEngg/Playwright-Practice/issues"
+  },
+  "homepage": "https://github.com/ArkaSrQualityEngg/Playwright-Practice#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^25.3.0"
+  }
+}
