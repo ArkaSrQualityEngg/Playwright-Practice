@@ -37,7 +37,7 @@ test.describe('Context Switching', async()=> {
         await browser.close();
     });
 
-    test.only('Switching between browser windows',async()=> {
+    test('Switching between browser windows',async()=> {
         const browser = await chromium.launch();
         const context1 = await browser.newContext();
 
