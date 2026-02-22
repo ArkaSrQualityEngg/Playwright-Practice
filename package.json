@@ -5,7 +5,7 @@
   "description": "This is for setting up a robust Playwright framework for testing practice.",
   "main": "index.js",
   "scripts": {
-    "runner": "npx playwright test tests/shadowDom.spec.ts --headed"
+    "runner": "npx playwright test tests/ --headed"
   },
   "repository": {
     "type": "git",
